@@ -1,0 +1,41 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+#project {
+  background-color: #e2edff;
+}
+
+#award {
+  background-color: #b0ceff;
+}
+
+section {
+  padding-top: 5rem;
+}
+.contact-s {
+  text-align: center;
+  padding: 20px;
+}
+
+.contact-section {
+  text-align: center;
+  padding: 20px;
+}
+
+.contact-link {
+  display: inline-block;
+  margin: 10px;
+  text-decoration: none;
+  color: #333;
+  font-size: 18px;
+  padding: 10px 20px;
+  border: 2px solid #333;
+  border-radius: 5px;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.contact-link:hover {
+  background-color: #333;
+  color: #fff;
+}
